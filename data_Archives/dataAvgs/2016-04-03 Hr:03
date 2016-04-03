@@ -1,3 +1,5 @@
 { Internal Clock }            { Apogee Pyrometer }          { Ada. BME280 (Inside) }      { TE525 Rain }   { Wind Monitor - MA 05106 }   { HYT-221 (Outside) }         {KIPP & ZONEN CGR3}           
 Date & Time                   SWave_Radiation               In_Temp   Pressure  in_R/H    Rainfall         Wind_Dir.      Wind_Speed     out_Temp       out_R/H        LWave_Rad.     CGR3_temp                     
 Year-Mnth-Day-Hr-Min-Sec      [W/M^2]                       [C]       [mBar]    [%]       [mm]             [degrees]      [m/s]          [C]            [%]            [W/M^2]        [C]                           
+2016  04  03  03  07  41      1.42                          25.88     1022.80   39.90     0.508            85.44          nan            24.14          36.93          451.95         24.43                         
+2016  04  03  03  08  41      1.94                          25.81     1022.80   40.24     0                85.42          nan            24.24          36.90          451.07         24.46                         
