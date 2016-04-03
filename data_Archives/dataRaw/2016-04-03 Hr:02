@@ -1,0 +1,10 @@
+{ Internal Clock }            { Apogee Pyrometer }          { Ada. BME280 (Inside) }      { TE525 Rain }   { Wind Monitor - MA 05106 }   { HYT-221 (Outside) }         {KIPP & ZONEN CGR3}           
+Date & Time                   SWave_Radiation               In_Temp   Pressure  in_R/H    Rainfall         Wind_Dir.      Wind_Speed     out_Temp       out_R/H        LWave_Rad.     CGR3_temp                     
+Year-Mnth-Day-Hr-Min-Sec      [V]                           [C]       [mBar]    [%]       [mm]             [V]            [m/s]          [C]            [%]            [V]            [V]                           
+2016  04  03  02  24  15      0.00                          27.00     1022.30   36.05     0                0.21           nan            23.74          39.48          0.00           1.39                          
+2016  04  03  02  24  20      0.00                          26.65     1022.34   38.39     0                0.21           nan            23.66          39.54          0.00           1.39                          
+2016  04  03  02  24  25      0.00                          26.65     1022.32   38.40     0                0.21           nan            23.74          39.69          0.00           1.39                          
+2016  04  03  02  24  30      0.00                          26.66     1022.36   38.41     0                0.21           nan            23.74          39.64          0.00           1.39                          
+2016  04  03  02  24  35      0.00                          26.66     1022.35   38.41     0                0.21           nan            23.74          39.49          0.00           1.39                          
+2016  04  03  02  24  40      0.00                          26.66     1022.33   38.41     0                0.21           nan            23.74          39.59          0.00           1.39                          
+2016  04  03  02  24  45      0.00                          26.67     1022.35   38.42     0                0.21           nan            23.74          39.76          0.00           1.39                          
