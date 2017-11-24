@@ -1,4 +1,6 @@
-Sensors Pulled:
+# Remote Weather Logger Using Raspberry Pi
+
+### Sensors Used:
 -BME280
   -inRH, inTemp, pressure
 -HYT221
@@ -15,13 +17,13 @@ Sensors Pulled:
   -Apogee
     -Short Wave Radiation(4)
 
---How the Rain Gauge Works--
+### How the Rain Gauge Works
 The ADC has an alert pin which can be toggled if a designated channel goes high
 Set channel where the rain bucket will be plugged into the ADS1115
 Set GPIO pin where the pi will read the value of the toggle
 And make sure to start_toggle_watch(channel) at the beginning of the Main code
 
---Wiring Hook-ups--
+### Wiring Hook-ups
 Apogee	|Sensor	|Connector
 _________________________________
 A0	|Green	> Red
@@ -43,7 +45,7 @@ V-OUT (THERM)	|Yellow	> Yellow
 GND (PYRO)	|Blue	> Black
 V-OUT (PYRO)	|Red	> Red
 _________________________________
-#BME280
+BME280
 3vol > 3v3      
 GND > GND       
 SCK > SCL       
