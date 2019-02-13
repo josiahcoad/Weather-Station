@@ -1,4 +1,6 @@
 # Remote Weather Logger Using Raspberry Pi
+![banner](weatherStation.png)
+![poster](weatherStation2.png)
 
 ### Sensors Used:
 -BME280
